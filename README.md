@@ -20,7 +20,7 @@
 
 ---
 - ***DUST.tt***:
-  - feels like a stolen CHatGPT-API - nothing more
+  - feels like a stolen ChatGPT-API - nothing more
   - With a hefty price-tag to it.
 
 
