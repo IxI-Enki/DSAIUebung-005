@@ -10,7 +10,7 @@
 ---
 - ***Hello History***:
   - is heavily based torwards a "woke" & "political correct" audience - which feels VERRY OFF while "talking" to historic figures;  
-  - Also you can "talk" to Mao, Stalin and other horrible individuals, but same is NOT TRUE for anyone not on the far left; 
+  - you can "talk" to Mao, Stalin and other horrible individuals, but same is NOT TRUE for anyone not on the far left; 
   - You would have a hard time finding anyone on the right political spectrum to text with;
   - Also no one would truthfully tell the bad stuff that they have done
     > - left is romanticized and always shown in good faith  
