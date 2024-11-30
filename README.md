@@ -7,7 +7,7 @@
 > - Because I am not regularly using any tools beside "Gemini", i chose to show of two more 'exotic' tools which I tested thoroughly.  
 > - Both tools are - like many, that uses "AI" in their names - nothing more than a scam, unfortunate.  
 
-
+---
 - ***Hello History***:
   - is heavily based torwards a "woke" & "political correct" audience - which feels VERRY OFF while "talking" to historic figures;  
   - Also you can "talk" to Mao, Stalin and other horrible individuals, but same is NOT TRUE for anyone not on the far left; 
@@ -18,6 +18,7 @@
         > ( like Nietzsche for example - he had written about the Ubermensch and other sick things, the AI won't even recognize this as his words )
     > - That's verry frustrating and feels like twisting history, in favour of a radical left D.E.I. agenda.  
 
+---
 - ***DUST.tt***:
   - feels like a stolen CHatGPT-API - nothing more
   - With a hefty price-tag to it.
