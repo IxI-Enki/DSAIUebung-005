@@ -1,4 +1,4 @@
-###### <p align="center"> DsaiUebung-005 -- AI-in use </p>
+###### <p align="center"> DsaiUebung-005 -- AI (in use) </p>
 
 <!-- ![assignment](./img/assignment.png)  -->
 
