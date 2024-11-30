@@ -16,7 +16,7 @@
     > - left is romanticized and always shown in good faith  
     > - right is not even present, or won't recognize their accurate thoughts  
         > ( like Nietzsche for example - he had written about the Ubermensch and other sick things, the AI won't even recognize this as his words )
-    > - That's verry frustrating and feels like twisting history, in favour of a radical left D.E.I. agenda.  
+    > - ***That's verry frustrating and feels like twisting history, in favour of a radical left D.E.I. agenda.***  
 
 ---
 - ***DUST.tt***:
