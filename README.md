@@ -4,7 +4,7 @@
 
 --- 
 
-> - Because I am not regularly using any tools beside "Gemini", i chose to show of two more 'exotic' tools which i am not using - but I tested thoroughly.  
+> - Because I am not regularly using any tools beside "Gemini", i chose to show of two more 'exotic' tools which I tested thoroughly.  
 > - Both tools are - like many, that uses "AI" in their names - nothing more than a scam, unfortunate.  
 
 ---
