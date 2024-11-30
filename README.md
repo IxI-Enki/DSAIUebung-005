@@ -1,6 +1,6 @@
 ###### <p align="center"> DsaiUebung-005 -- AI-in usage </p>
 
-![assignment](./img/assignment.png)  
+<!-- ![assignment](./img/assignment.png)  -->
 
 --- 
 
@@ -8,9 +8,11 @@
 > - Both tools are - like many, that uses "AI" in their names - nothing more than a scam, unfortunate.  
 
 ---
+ ![0](./img/0.png)
+
+---
 # The tested "Tools":
 
- ![0](./img/0.png)
  ![1](./img/1.png)
  ![2](./img/2.png)
  ![3](./img/3.png)
